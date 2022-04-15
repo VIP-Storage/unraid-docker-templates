@@ -86,37 +86,26 @@
     <Environment/>
     <Labels/>
     <Config Name="MQTT_PORT" Target="5672" Default="" Mode="tcp" Description="Container Port: 5672" Type="Port"
-            Display="always" Required="false" Mask="false">5672
-    </Config>
+            Display="always" Required="false" Mask="false">5672</Config>
     <Config Name="MANAGEMENT" Target="15672" Default="" Mode="tcp" Description="Container Port: 15672" Type="Port"
-            Display="always" Required="false" Mask="false">15672
-    </Config>
+            Display="always" Required="false" Mask="false">15672</Config>
     <Config Name="MQTT" Target="1883" Default="" Mode="tcp" Description="Container Port: 1883" Type="Port"
-            Display="always" Required="false" Mask="false">1883
-    </Config>
+            Display="always" Required="false" Mask="false">1883</Config>
     <Config Name="15675" Target="15675" Default="" Mode="tcp" Description="Container Port: 15675" Type="Port"
-            Display="always" Required="false" Mask="false">15675
-    </Config>
+            Display="always" Required="false" Mask="false">15675</Config>
     <Config Name="lib" Target="/var/lib/rabbitmq" Default="" Mode="rw" Description="Container Path: /var/lib/rabbitmq"
-            Type="Path" Display="always" Required="false" Mask="false">/mnt/user/appdata/rabbo/lib
-    </Config>
+            Type="Path" Display="always" Required="false" Mask="false">/mnt/user/appdata/rabbo/lib</Config>
     <Config Name="log" Target="/var/log/rabbitmq" Default="" Mode="rw" Description="Container Path: /var/log/rabbitmq"
-            Type="Path" Display="always" Required="false" Mask="false">/mnt/user/appdata/rabbo/log
-    </Config>
+            Type="Path" Display="always" Required="false" Mask="false">/mnt/user/appdata/rabbo/log</Config>
     <Config Name="SSL" Target="/root" Default="" Mode="rw" Description="Container Path: /root" Type="Path"
-            Display="always" Required="false" Mask="false">/mnt/user/appdata/rabbo/ssl
-    </Config>
+            Display="always" Required="false" Mask="false">/mnt/user/appdata/rabbo/ssl</Config>
     <Config Name="conf" Target="/etc/rabbitmq/conf.d" Default="" Mode="rw"
             Description="Container Path: /etc/rabbitmq/conf.d" Type="Path" Display="always" Required="false"
-            Mask="false">/mnt/user/appdata/rabbo/conf
-    </Config>
+            Mask="false">/mnt/user/appdata/rabbo/conf</Config>
     <Config Name="5671" Target="5671" Default="" Mode="tcp" Description="Container Port: 5671" Type="Port"
-            Display="always" Required="false" Mask="false">5671
-    </Config>
+            Display="always" Required="false" Mask="false">5671</Config>
     <Config Name="15676" Target="15676" Default="" Mode="tcp" Description="Container Port: 15676" Type="Port"
-            Display="always" Required="false" Mask="false">15676
-    </Config>
+            Display="always" Required="false" Mask="false">15676</Config>
     <Config Name="8883" Target="8883" Default="" Mode="tcp" Description="Container Port: 8883" Type="Port"
-            Display="always" Required="false" Mask="false">8883
-    </Config>
+            Display="always" Required="false" Mask="false">8883</Config>
 </Container>
