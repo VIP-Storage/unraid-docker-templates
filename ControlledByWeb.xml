@@ -13,7 +13,7 @@
   <Category/>
   <WebUI>http://[IP]:[PORT:4000]</WebUI>
   <TemplateURL/>
-  <Icon>https://angular.io/assets/images/logos/angular/angular.png</Icon>
+  <Icon>https://github.com/VIP-Storage/unraid-docker-templates/blob/mane/angular.png?raw=true</Icon>
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>

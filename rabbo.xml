@@ -13,7 +13,7 @@
     <Category/>
     <WebUI>http://[IP]:[PORT:15672]</WebUI>
     <TemplateURL/>
-    <Icon>https://cdn.freebiesupply.com/logos/large/2x/rabbitmq-logo-png-transparent.png</Icon>
+    <Icon>https://github.com/VIP-Storage/unraid-docker-templates/blob/mane/rabbitmq-logo.png?raw=true</Icon>
     <ExtraParams>--hostname rabbo</ExtraParams>
     <PostArgs/>
     <CPUset/>
