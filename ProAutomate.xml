@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Container version="2">
-  <Name>ControlledByWeb</Name>
+  <Name>ProAutomate</Name>
   <Repository>kretin2/cbw:latest</Repository>
   <Registry/>
   <Network>host</Network>
@@ -13,7 +13,7 @@
   <Category/>
   <WebUI>http://[IP]:[PORT:4000]</WebUI>
   <TemplateURL/>
-  <Icon>https://github.com/VIP-Storage/unraid-docker-templates/blob/mane/angular.png?raw=true</Icon>
+  <Icon>https://github.com/VIP-Storage/unraid-docker-templates/blob/mane/proautomate.png?raw=true</Icon>
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
